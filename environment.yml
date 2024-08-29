@@ -6,4 +6,6 @@ dependencies:
   - numpy=*
   - pandas=*
   - seaborn=*
+  - snowflake=*
   - snowflake-ml-python=*
+  - snowflake-snowpark-python=*
